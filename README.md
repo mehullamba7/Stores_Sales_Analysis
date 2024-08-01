@@ -60,7 +60,7 @@ Welcome to the SuperStore Sales Data Analysis and Visualization project! This pr
 3. **Explore the Data**: Interact with the dashboards and visualizations to gain insights.
 
 ## 👤 Author
-- **Aadit Singh**
+- **Mehul Lamba**
 
 
 
